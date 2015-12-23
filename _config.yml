@@ -1,2 +1,5 @@
 name: Austin Wang
-markdown: kramdown
+markdown: redcarpet
+pygments: true
+github: https://www.github.com/austinwangsap
+about: I am new to this area
